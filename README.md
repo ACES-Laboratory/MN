@@ -24,7 +24,7 @@ Before running the project, we first need to setup the environment.
 Before runing the scripts, the following preparation needs to be done:   
 
 
-1. Download the dataset from (link), unzip the file into the root directory.
+1. Download the dataset from (link), unzip the file into the "dataset/" directory.
    
 2. Download the trained model from (link), put it in the folder "ckpt/"
    

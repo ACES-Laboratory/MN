@@ -6,7 +6,8 @@ According to the data and privacy management policy of the medical institute we 
 For reviewers to reproduce the results in Figure 7, please follow the steps.
 
 
-Before running the scripts, we first need to setup the environment.
+Before running the project, we first need to setup the environment.
+
 
 1. Go to https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html, follow the instructions and install docker and nvidia-docker.
 2. Download the docker image from (link), which is a .tar file, and put it in the root directory of the project.
@@ -19,7 +20,9 @@ Before running the scripts, we first need to setup the environment.
 6. Open a web browser and type in "localhost:8888" to access the interface of jupyter notebook.
 7. Navigate to the root directory of the project and launch the scripts.
 
+
 Before runing the scripts, the following preparation needs to be done:   
+
 
 1. Download the dataset from (link), unzip the file into the root directory.
    

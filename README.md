@@ -25,7 +25,9 @@ Before runing the scripts, the following preparation needs to be done:
 
 
 1. Download the dataset from (link), unzip the file into the "dataset/" directory.
+
+2. Run the 'data_splitter.py' script to generate the 100-fold bootstraping dataset.
    
-2. Download the trained model from (link), put it in the folder "ckpt/"
+4. Download the trained model from (link), put it in the folder "ckpt/"
    
-3. Run the script.
+5. Run the script named .

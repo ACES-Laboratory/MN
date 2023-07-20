@@ -1,4 +1,4 @@
-# MN
+# Automated Diagnosis of Membranous Nephropathy Using Convolutional Neural Networks with a Selective Mechanism of Model Evaluation
 This repo is for submitted manuscript named "Automated Diagnosis of Membranous Nephropathy Using Convolutional Neural Networks with a Selective Mechanism of Model Evaluation"
 
 According to the data and privacy management policy of the medical institute we are working with, while the manuscript is being reviewed, only validation scripts and data and trained model weights can be provided. After the paper is published, the entire training dataset will be released, along with other related scripts. 

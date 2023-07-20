@@ -30,4 +30,4 @@ Before runing the scripts, the following preparation needs to be done:
    
 4. Download the trained model from (link), put it in the folder "ckpt/"
    
-5. Run the script named .
+5. Run the script named "Crossvalid_ELM.ipynb" to reproduce the results.
